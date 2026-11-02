@@ -1,4 +1,4 @@
-# CNN — A Deep Dive into Convolutional Neural Networks
+# CNN 
 
 An empirical study of CNNs across four datasets and eight experiments, covering classification, regression, translation invariance, feature-map interpretability, custom loss functions, and convolutional autoencoders.
 
